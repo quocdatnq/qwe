@@ -5,10 +5,10 @@
 <li>Nguyễn Quốc Đạt      email : boelovenhan@gmail.com</li>
 <li>Lê Thị Khang         email : lethikhang20021996@gmail.com </li>
 </ul>
-<p>Link github :</p>
-<p><a href="https://github.com/Nhom7HeThongPhanTan/4324-HeThongPhanTan-Nhom7">Link</a></p>
+<p>Link github :<a href="https://github.com/Nhom7HeThongPhanTan/4324-HeThongPhanTan-Nhom7">Link</a></p>
 <p>Tên đề tài : Quản lí đăng kí nhóm</p>
 <p>Ngôn ngữ sử dụng : Php, HTML, CSS, JavaScript,..</p>
+<h2>Nhiệm vụ</h2>
 <ol>
 <li>1. Xây dựng chức năng Login và Logout trong trang Web</li>
 <li>2. Xây dựng chi tiết trang chủ có các thông tin:
@@ -18,7 +18,6 @@
 <li>Trang hiển thị thông tin người sử dụng.</li>
 <p>Đối với quyền member:</p>
 <li>Trang hiển thị thông tin người sử dụng.</li>
-<li></li>
 </ul>
 </li>
 <li>3. Xây dựng trang thêm người sử dụng cho quyền quản trị admin.</li>
@@ -26,7 +25,6 @@
 <li>5. Xây dựng trang để người sử dụng tự đăng ký để vào website. Sau khi đăng ký, người sử dụng có quyền mặc định là member.</li>
 <li>6. Xây dựng trang sửa đổi thông tin cho người sử dụng trong hệ thống như thay đổi email và mật khẩu.</li>
 </ol>
-
 <p>Kế hoạch thực hiện :</p>
 <p>Giai đoạn 1 : 24/10/2017 – 30/10/2017</p>
 <ul>
