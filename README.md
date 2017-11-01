@@ -1,15 +1,33 @@
 <h1>Nhóm 7 – Hệ thông phân tán</h1>
 <p>Thành viên :</p>
 <ul>
-<li>Dương Trung Kiên	email : asus12121996@gmail.com</li>
-<li>Nguyễn Quốc Đạt	email : boelovenhan@gmail.com</li>
-<li>Lê Thị Khang	email : lethikhang20021996@gmail.com </li>
+<li>Dương Trung Kiên     email : asus12121996@gmail.com</li>
+<li>Nguyễn Quốc Đạt      email : boelovenhan@gmail.com</li>
+<li>Lê Thị Khang         email : lethikhang20021996@gmail.com </li>
 </ul>
 <p>Link github :</p>
-<p><a href="https://github.com/Nhom7HeThongPhanTan/4324-HeThongPhanTan-Nhom7"></a></p>
+<p><a href="https://github.com/Nhom7HeThongPhanTan/4324-HeThongPhanTan-Nhom7">Link</a></p>
 <p>Tên đề tài : Quản lí đăng kí nhóm</p>
-Ngôn ngữ sử dụng : Php, HTML, CSS, JavaScript,..
-Kế hoạch thực hiện :
+<p>Ngôn ngữ sử dụng : Php, HTML, CSS, JavaScript,..</p>
+<ol>
+<li>1. Xây dựng chức năng Login và Logout trong trang Web</li>
+<li>2. Xây dựng chi tiết trang chủ có các thông tin:
+<ul>
+<p>Đối với quyền quản trị admin:</p>
+<li>Trang quản lý danh sách người sử dụng.</li>
+<li>Trang hiển thị thông tin người sử dụng.</li>
+<p>Đối với quyền member:</p>
+<li>Trang hiển thị thông tin người sử dụng.</li>
+<li></li>
+</ul>
+</li>
+<li>3. Xây dựng trang thêm người sử dụng cho quyền quản trị admin.</li>
+<li>4. Xây dựng trang sửa và xóa người dùng cho người sử dụng có quyền quản trị admin. Trong trang sửa cũng được phép thay đổi quyền của người sử dụng có quyền member lên quyền quản trị admin. Người dùng có quyền member không được phép truy cập trang này.</li>
+<li>5. Xây dựng trang để người sử dụng tự đăng ký để vào website. Sau khi đăng ký, người sử dụng có quyền mặc định là member.</li>
+<li>6. Xây dựng trang sửa đổi thông tin cho người sử dụng trong hệ thống như thay đổi email và mật khẩu.</li>
+</ol>
+
+<p>Kế hoạch thực hiện :</p>
 <p>Giai đoạn 1 : 24/10/2017 – 30/10/2017</p>
 <ul>
 <li>Thành lập nhóm 3 thành viên</li>
