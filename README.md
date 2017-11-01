@@ -1,9 +1,9 @@
 <h1>Nhóm 7 – Hệ thông phân tán</h1>
 <p>Thành viên :</p>
 <ul>
-<li>Dương Trung Kiên     email : asus12121996@gmail.com</li>
-<li>Nguyễn Quốc Đạt      email : boelovenhan@gmail.com</li>
-<li>Lê Thị Khang         email : lethikhang20021996@gmail.com </li>
+<li>Dương Trung Kiên&#09;&#09;email : asus12121996@gmail.com</li>
+<li>Nguyễn Quốc Đạt&#09;&#09;email : boelovenhan@gmail.com</li>
+<li>Lê Thị Khang&#09;&#09;email : lethikhang20021996@gmail.com </li>
 </ul>
 <p>Link github :<a href="https://github.com/Nhom7HeThongPhanTan/4324-HeThongPhanTan-Nhom7">Link</a></p>
 <p>Tên đề tài : Quản lí đăng kí nhóm</p>
