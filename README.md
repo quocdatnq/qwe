@@ -25,7 +25,7 @@
 <li>5. Xây dựng trang để người sử dụng tự đăng ký để vào website. Sau khi đăng ký, người sử dụng có quyền mặc định là member.</li>
 <li>6. Xây dựng trang sửa đổi thông tin cho người sử dụng trong hệ thống như thay đổi email và mật khẩu.</li>
 </ol>
-<p>Kế hoạch thực hiện :</p>
+<h2>Kế hoạch thực hiện :</h2>
 <p>Giai đoạn 1 : 24/10/2017 – 30/10/2017</p>
 <ul>
 <li>Thành lập nhóm 3 thành viên</li>
